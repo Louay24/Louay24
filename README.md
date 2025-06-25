@@ -153,10 +153,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louay24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
-
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
 ---
 
