@@ -96,7 +96,7 @@
 | -------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | :--------------------------------------------: |
 | **Al Hamriyah Club** | A dynamic platform to manage sports teams, players, match schedules, and results, enhancing fan engagement.    | `Next.js`, `Tailwind CSS`, `TypeScript`, `Strapi`    |      [🔗](https://www.alhamriyahclub.ae/)      |
 | **Chez Efendy**      | A platform for restaurants to manage digital menus, table reservations, and process online orders efficiently. | `Next.js`, `Stripe`, `Strapi`, `Tailwind CSS`        |         [🔗](https://chezeffendy.com)          |
-| **Web School ERP**   | A comprehensive school management ERP with modules for student, teacher, and class management.                 | `React`, `TypeScript`, `Redux`, `Node.js`, `MongoDB` | [🔗](https://github.com/Louay24/WebSchool-ERP) |
+| **Web School ERP**   | A comprehensive school management ERP with modules for student, teacher, and class management.                 | `React`, `TypeScript`, `Redux`, `Node.js`, `MongoDB` | [🔗](https://github.com/louay24/WebSchool-ERP) |
 | **AI-Powered Tools** | A collection of custom AI tools, chatbots, and workflow automations to streamline business processes.          | `OpenAI`, `Gemini`, `Next.js`, `Node.js`             |      [🔗](https://www.louayzouaoui.com/)       |
 
 <p align="center">
@@ -149,17 +149,17 @@
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louay24&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="Louay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louay24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louay24&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="Louay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louay24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Louay24)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=louay24)](https://git.io/streak-stats)
 
 <p align="center">
-  <a href="https://github.com/Louay24" target="_blank">
+  <a href="https://github.com/louay24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://gitlab.com/Louay24" target="_blank">
+  <a href="https://gitlab.com/louay24" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
   <a href="https://dev.to/louay24" target="_blank">
