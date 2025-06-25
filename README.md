@@ -82,7 +82,7 @@ I'm a seasoned engineer specializing in building fast, scalable, and intelligent
 | **Web School ERP**   | A comprehensive school management ERP with modules for student, teacher, and class management.                 | `React`, `TypeScript`, `Redux`, `Node.js`, `MongoDB` |
 | **AI-Powered Tools** | Custom AI tools, chatbots, and workflow automations to streamline business processes.                          | `OpenAI`, `Gemini`, `Next.js`, `Node.js`             |
 
-Check out more of my work on my [**portfolio**](https://www.louayzouaoui.com/projects).
+Check out more of my work on my [**portfolio**](https://www.louayzouaoui.com).
 
 ---
 
