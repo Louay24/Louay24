@@ -149,11 +149,13 @@
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louay24&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="Louay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louay24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louay24&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true&include_all_commits=true" alt="Louay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louay24&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=louay24)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=louay24&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <a href="https://github.com/louay24" target="_blank">
