@@ -56,6 +56,9 @@ I'm a seasoned engineer specializing in building fast, scalable, and intelligent
     <img src="https://img.shields.io/badge/Gemini-8E75A3?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
     <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity">
     <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+    <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" alt="Make">
+    <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
 ---
@@ -68,7 +71,7 @@ I'm a seasoned engineer specializing in building fast, scalable, and intelligent
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Louay24&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Louay24&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
